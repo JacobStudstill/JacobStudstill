@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [a social media for music called Anthym](https://anthym.herokuapp.com/)
 
-- 💬 Ask me about **all things full-stack!**
-
 - 📫 How to reach me **jacob.studstill@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
