@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jacobstudstill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobstudstill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacobstudstill" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="jacobstudstill" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jacob-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jacob-s" height="30" width="40" /></a>
-<a href="https://twitter.com/JustBoolean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="jacobstudstill" height="30" width="40" /></a>
+<a href="https://twitter.com/JustBoolean" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="jacobstudstill" height="30" width="40" /></a>
 <a href="https://instagram.com/JustBoolean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacobstudstill" height="30" width="40" /></a>
-<a href="https://twitch.tv/JustBoolean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.sv" alt="jacobstudstill" height="30" width="40" /></a>
+<a href="https://twitch.tv/JustBoolean" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitch.svg" alt="jacobstudstill" height="30" width="40" /></a>
 </p>
 
 
