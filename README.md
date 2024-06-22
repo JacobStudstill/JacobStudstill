@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Studstill</h1>
 - I am a computer science student attending University of Central Florida. I have completed the full-stack development coding bootcamp at UCF and have a background in network infrastructure. I am currently working on side projects to further gain knowledge for programming languages like Python and Golang.
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobstudstill&label=Profile%20views&color=0e75b6&style=flat" alt="jacobstudstill" /> </p>
